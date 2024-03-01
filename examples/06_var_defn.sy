@@ -1,0 +1,15 @@
+int a=5;
+int a=8*3;
+int a=b;
+a=b;
+void fun(int a,int b){
+int a = 3 + 4; int c = a * b;
+    a=c*(b+3);
+    a=-3;
+    c=a>b;
+    c=a<b;
+    c=a==b;
+    c=a<=b;
+    c=a>=b;
+    c=a!=b;
+}
